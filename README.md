@@ -1,5 +1,5 @@
 ## [Medical Sieve: Topic-based Sentiment Analysis Engine](https://jianhenghou.github.io/Medical-Sieve/)
-An end-to-end topic-based sentiment analysis engine with Deep Learning and NLP through Top-down way to decipher patient sentiment and unlock centure opportunity for a data-driven venture capital firm.
+An end-to-end topic-based sentiment analysis engine with deep learning and NLP through top-down way to decipher patient sentiment and unlock centure opportunity for a data-driven venture capital firm.
 
 ## [Consumer Impact Index: Sector Consumption Tracking Analysis with Time Series](https://www.alphaedison.com/post/ae-perspectives-issue-4-introducing-the-alpha-edison-consumer-impact-index)
 Discovered and unlocked new investment opportunities by identifying anomaly consumptions trend from credit card record using facebook prophet framework.
