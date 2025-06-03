@@ -4,7 +4,7 @@ title: "Jianheng (Jaden) Hou"
 author_profile: true
 ---
 
-Hi, I’m **Jianheng (Jaden) Hou**, a Senior Machine Learning Engineer at [Tesla](https://www.tesla.com/AI), where I lead efforts in AI-powered smart automotive manufacturing. My work lies at the intersection of **multimodal large language models**, **AI agents (GraphRAG + Tools)**, **recommendation and search systems**, **machine learning infrastructure**, and **applied data science**—driving large-scale impact in complex industrial environments. In 2024, I was recognized as one of the three most impactful contributors to Tesla Manufacturing.
+Hi, I’m **Jianheng (Jaden) Hou**, a Senior Machine Learning Engineer at [Tesla](https://www.tesla.com/AI), where I lead efforts in AI-powered smart automotive manufacturing. My work lies at the intersection of **Multimodal**, **AI Agents**, **Recommendation Systems**, **ML Infra**, and **Applied Data Science**—driving large-scale impact in complex industrial environments. In 2024, I was recognized as one of the three most impactful contributors to Tesla Manufacturing.
 
 Prior to Tesla, I worked at [Comcast](https://www.xfinity.com/overview) within the Enterprise Business Intelligence. There, as a Sr Data Scientist, I participated in a strategic rotation program delivering end-to-end data science and ML solutions for Xfinity’s product growth, customer experience, pricing strategy, and workforce optimization.
 
