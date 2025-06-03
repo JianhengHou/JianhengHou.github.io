@@ -19,16 +19,16 @@ I earned my M.S. in **Applied Data Science** from the [Viterbi School of Enginee
 ---
 
 ## Research Interests
-My work is deeply cross-domain, integrating methods and insights across machine learning, manufacturing, enterprise systems, and decision science. I specialize in:
+
+My interdisciplinary experience shapes a unique research perspective that blends **product-driven data science intuition**, **industrial-scale ML engineering**, and **cutting-edge academic innovation**. I focus on translating advanced AI concepts into real-world, high-impact solutions in complex enterprise settings. Specifically, my interests lie in:
 
 <ul>
-  <li><strong>Multimodal Foundation Models</strong> for defect classification, inspection log understanding, and cross-modal fault pattern recognition</li>
-  <li><strong>GraphRAG-style Agents</strong> for large-scale root cause analysis, supplier risk tracing, and engineering workflow acceleration</li>
-  <li><strong>Causal Inference Frameworks</strong> for anomaly attribution, preventive action recommendation, and manufacturing resilience</li>
-  <li><strong>AI-based Workforce Platforms</strong> for skill gap identification and AI-integrated job transition pathways</li>
+  <li><strong>Multimodal Foundation Models</strong> — aligning proprietary domain data (text, image, sensor) to build scalable, personalized recommendation systems and defect recognition pipelines</li>
+  <li><strong>AI Agents</strong> — orchestrating enterprise-level workflows through tool-integrated GraphRAG systems and retrieval-augmented action agents</li>
+  <li><strong>Applied Data Science</strong> — conducting user behavior analysis, building decision dashboards, and running causal inference experiments to guide product strategies</li>
+  <li><strong>Machine Learning Systems</strong> — designing and deploying full-stack ML pipelines (online/offline), including infrastructure, monitoring, and model lifecycle management</li>
 </ul>
 
-My current focus is scaling these frameworks into **enterprise-grade AI agents** that interface with real-time sensor data, service logs, supply contracts, and user behavior to support explainable, automated decisions across the industrial lifecycle.
 
 ---
 
