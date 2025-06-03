@@ -13,6 +13,7 @@ prior, I worked at [Alpha Edison](https://www.alphaedison.com/), a data-driven v
 I also served as a research assistant at the [Information Sciences Institute](https://www.isi.edu/) ([University of Southern California](https://www.usc.edu/)), contributing to the **DARPA-funded** [THOR Project](https://usc-isi-i2.github.io/thor/) on real-time global crisis management through [situation awareness](https://researchoutreach.org/wp-content/uploads/2019/12/Mayank-Kejriwal.pdf) based on knowledge graphs.
 
 I earned my M.S. in **Applied Data Science** from [Viterbi School of Engineering](https://viterbischool.usc.edu/) at [USC](https://www.usc.edu/). 
+
 ---
 
 ## Research Interests
