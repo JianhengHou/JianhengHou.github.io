@@ -4,7 +4,7 @@ title: "Jianheng (Jaden) Hou"
 author_profile: true
 ---
 
-Hi, I’m **Jianheng (Jaden) Hou**, a Senior Machine Learning Engineer at [Tesla](https://www.tesla.com/AI), where I lead initiatives in AI-powered smart automotive manufacturing. My work spans **Multimodal Models**, **AI Agents**, **Recommendation Systems**, **ML Infrastructure**, and **Applied Data Science**—driving measurable impact across large-scale, high-stakes industrial workflows. In 2024, I was honored as one of the three most impactful contributors to Tesla Manufacturing.
+Hi, I’m currently a Senior Machine Learning Engineer at [Tesla](https://www.tesla.com/AI), where I lead initiatives in AI-powered smart automotive manufacturing. My work spans **Multimodal Models**, **AI Agents**, **Recommendation Systems**, **ML Infrastructure**, and **Applied Data Science**—driving measurable impact across large-scale, high-stakes industrial workflows. In 2024, I was honored as one of the three most impactful contributors to Tesla Manufacturing.
 
 Prior to Tesla, I worked at [Comcast](https://www.xfinity.com/overview) within the Enterprise Business Intelligence organization. As a Senior Data Scientist, I participated in a strategic rotation program, delivering end-to-end machine learning and analytics solutions for Xfinity’s product growth, customer experience, pricing strategies, and workforce optimization.
 
@@ -24,7 +24,7 @@ My interdisciplinary experience shapes a unique research perspective that blends
 
 <ul>
   <li><strong>Multimodal Foundation Models</strong> — aligning proprietary domain data (text, image, sensor) to build scalable, personalized recommendation systems and defect recognition pipelines</li>
-  <li><strong>AI Agents</strong> — orchestrating enterprise-level workflows through tool-integrated GraphRAG systems and retrieval-augmented action agents</li>
+  <li><strong>AI Agents</strong> — orchestrating enterprise-level agentic workflows through tool and GraphRAG</li>
   <li><strong>Applied Data Science</strong> — conducting user behavior analysis, building decision dashboards, and running causal inference experiments to guide product strategies</li>
   <li><strong>Machine Learning Systems</strong> — designing and deploying full-stack ML pipelines (online/offline), including infrastructure, monitoring, and model lifecycle management</li>
 </ul>
