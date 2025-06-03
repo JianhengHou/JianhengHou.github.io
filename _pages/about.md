@@ -10,7 +10,7 @@ Prior to Tesla, I worked at [Comcast](https://www.xfinity.com/overview) within t
 
 Before that, I was a Research Data Scientist at [Alpha Edison](https://www.alphaedison.com/), a data-driven venture capital firm. I developed [large-scale text mining](https://jianhenghou.github.io/Medical-Sieve/) and [anomaly detection + causal inference frameworks](https://jianhenghou.github.io/consumption-tracking-and-causal-analysis/) to surface latent industry pain points and early market signals—supporting over $40M in investments across high-growth U.S. startups.
 
-Earlier in my career, I served as a Research Assistant at the [Information Sciences Institute](https://www.isi.edu/) at the [University of Southern California](https://www.usc.edu/), where I contributed to the **DARPA-funded** [THOR project](https://usc-isi-i2.github.io/thor/). This work focused on real-time crisis management through [situational awareness](https://researchoutreach.org/wp-content/uploads/2019/12/Mayank-Kejriwal.pdf) powered by dynamic knowledge graphs.
+Earlier in my career, I served as a Research Assistant at the [Information Sciences Institute](https://www.isi.edu/) at the [University of Southern California](https://www.usc.edu/), where I contributed to the **DARPA-funded** [THOR project](https://usc-isi-i2.github.io/thor/). This featured work focused on real-time crisis management through [situational awareness](https://researchoutreach.org/wp-content/uploads/2019/12/Mayank-Kejriwal.pdf) powered by dynamic knowledge graphs and was transitioned into [Department of Defence](https://www.defense.gov/)  Apps.
 
 I earned my M.S. in **Applied Data Science** from the [Viterbi School of Engineering](https://viterbischool.usc.edu/) at [USC](https://www.usc.edu/).
 
