@@ -6,7 +6,7 @@ author_profile: true
 
 Hi, I’m currently a Senior Machine Learning Engineer at [Tesla](https://www.tesla.com/AI), where I lead initiatives in AI-powered smart automotive manufacturing. My work spans **Multimodal Models**, **AI Agents**, **Recommendation Systems**, **ML Infrastructure**, and **Data Science**—driving measurable impact across large-scale, high-stakes industrial workflows. In 2024, I was honored as one of the three most impactful contributors to Tesla Manufacturing.
 
-Prior to Tesla, I worked at [Comcast](https://www.xfinity.com/overview) within the Enterprise Business Intelligence organization. As a Senior Data Scientist, I participated in a strategic rotation program, delivering end-to-end machine learning and analytics solutions for Xfinity’s product growth, customer experience, pricing strategies, and workforce optimization.
+Prior to Tesla, I worked at [Comcast](https://www.xfinity.com/overview) within the Enterprise Business Intelligence organization. As a Senior Data Scientist, I participated in a strategic rotation program, delivering end-to-end machine learning and data science solutions for Xfinity’s product growth, customer experience, pricing strategies, and workforce optimization.
 
 Before that, I was a Research Data Scientist at [Alpha Edison](https://www.alphaedison.com/), a data-driven venture capital firm. I developed [large-scale text mining](https://jianhenghou.github.io/Medical-Sieve/) pipelines and [anomaly detection and causal inference frameworks](https://jianhenghou.github.io/consumption-tracking-and-causal-analysis/) to identify latent industry pain points and emerging market signals—supporting over $40M in investments across high-growth U.S. startups.
 
